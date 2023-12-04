@@ -49,5 +49,5 @@ Let's connect and chat about technology or collaborate on exciting projects:
 
 Feel free to explore my repositories and leave a star if you find something interesting! 🌟
 
-![Texto Alternativo da Imagem](https://i.pinimg.com/564x/ea/18/48/ea18489c715946fdb06e3db8f0158cfa.jpg)
+
 
