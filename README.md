@@ -49,4 +49,4 @@ Let's connect and chat about technology or collaborate on exciting projects:
 
 Feel free to explore my repositories and leave a star if you find something interesting! 🌟
 
-<img width=1114px height=564px  src="https://pa1.aminoapps.com/6642/52e24d442c5322e7fae478da665082851a0e7da7_hq.gif"/>
+<img width=1114px height=564px  src="[https://pa1.aminoapps.com/6642/52e24d442c5322e7fae478da665082851a0e7da7_hq.gif](https://i.pinimg.com/564x/ea/18/48/ea18489c715946fdb06e3db8f0158cfa.jpg)https://i.pinimg.com/564x/ea/18/48/ea18489c715946fdb06e3db8f0158cfa.jpg"/>
