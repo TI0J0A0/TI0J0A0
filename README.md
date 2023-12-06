@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello, World! 👋 ❤</h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" style="display: block; margin: 0 auto;" alt="Computador iuriCode">
+
 
 
     
