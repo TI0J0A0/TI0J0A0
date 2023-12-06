@@ -1,17 +1,5 @@
 <div align="center">
     <h1>Hello, World! 👋 ❤</h1>
-  </div>
-<div align="center" style="margin-bottom:100px">
-    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TI0J0A0&theme=radical&mode=weekly" />
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=TI0J0A0&show_icons=true&theme=radical&layout=compact" />
-</div>
-
- 
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
@@ -50,4 +38,12 @@ Let's connect and chat about technology or collaborate on exciting projects:
 Feel free to explore my repositories and leave a star if you find something interesting! 🌟
 
 
+  </div>
+<div align="center" style="margin-bottom:100px">
+    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TI0J0A0&theme=radical&mode=weekly" />
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=TI0J0A0&show_icons=true&theme=radical&layout=compact" />
+</div>
 
+ 
+ &nbsp;
+ &nbsp;
