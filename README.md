@@ -45,13 +45,20 @@
 </div>
 
   <div>
-    <h2>🌐 Connect with Me</h2>
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-    <a href="https://twitter.com/joaoguiar_5">
-      <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-    <a href="https://www.instagram.com/joaoguiar_5/" target="https://www.instagram.com/joaoguiar_5/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-    <a href="https://www.linkedin.com/in/joaopedroaguiar99/" target="https://www.linkedin.com/in/joaopedroaguiar99/">
+<h2>🌐 Connect with Me</h2>
+
+<a href="https://twitter.com/joaoguiar_5" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/joaoguiar_5/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joaopedroaguiar99/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+
       
       
 </a>
