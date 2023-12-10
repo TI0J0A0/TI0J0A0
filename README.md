@@ -1,6 +1,14 @@
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
 
   <h1>Hello, World! 👋 ❤</h1>
+
+  <img width="472px" src="https://github-readme-stats.vercel.app/api?username=TI0J0A0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+
+  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=TI0J0A0&theme=radical&mode=weekly" />
+
+</div>
+
+
 
 <img src="" alt="">
 
@@ -68,8 +76,7 @@
 
 </div>
 
-<div style="text-align: center; margin-bottom: 100px;">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=TI0J0A0&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=TI0J0A0&show_icons=true&theme=radical&layout=compact" />
- 
+<div style="text-align: center; margin-bottom: 100px; max-width: 519px;">
+  <img width="350px" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=TI0J0A0&show_icons=true&theme=radical&layout=compact" />
 </div>
+
