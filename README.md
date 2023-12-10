@@ -2,9 +2,9 @@
 
   <h1>Hello, World! 👋 ❤</h1>
 
-  <img width="472px" src="https://github-readme-stats.vercel.app/api?username=TI0J0A0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img width="372px" src="https://github-readme-stats.vercel.app/api?username=TI0J0A0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 
-  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=TI0J0A0&theme=radical&mode=weekly" />
+  <img width="394px" src="https://github-readme-streak-stats.herokuapp.com?user=TI0J0A0&theme=radical&mode=weekly" />
 
 </div>
 
