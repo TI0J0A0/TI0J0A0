@@ -18,9 +18,9 @@
 ## 🚀 About Me
 
 - 💻 Passionate about coding, tech, and learning new tools
-- 🌐 Currently diving deep into Node.js, React, and Google Cloud Platform
+- 🌐 Currently diving deep into JAVA, PYTHON, and Google Cloud Platform
 - 📚 Always exploring open-source projects and backend systems
-- 🎯 Goal: Become a top-notch full-stack/cloud engineer
+- 🎯 Goal: Become a top-notch Backend/cloud engineer
 
 ---
 
