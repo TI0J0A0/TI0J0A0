@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TI0J0A0&show_icons=true&theme=radical&count_private=true&hide=issues" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI0J0A0&layout=compact&theme=radical" width="37%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI0J0A0&layout=compact&theme=radical" width="37.5%" />
 </div>
 
 
